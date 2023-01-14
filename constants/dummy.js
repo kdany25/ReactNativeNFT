@@ -3,7 +3,7 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "NFT-01",
-    name: "Abstracto #312",
+    name: "Abstracto #315",
     creator: "Putri Intan",
     price: 4.25,
     description:
