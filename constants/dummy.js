@@ -4,7 +4,7 @@ const NFTData = [
   {
     id: "NFT-01",
     name: "Abstracto #315",
-    creator: "Putri Intan",
+    creator: "Kabalisa dany",
     price: 4.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
@@ -36,7 +36,7 @@ const NFTData = [
   {
     id: "NFT-02",
     name: "Green Coins",
-    creator: "Siti Nurhaliza",
+    creator: "Kwizera maniple",
     price: 7.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
@@ -54,7 +54,7 @@ const NFTData = [
   {
     id: "NFT-03",
     name: "NFT coins race",
-    creator: "Elisabeth aho",
+    creator: "Shyaka hertier",
     price: 95.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
@@ -79,7 +79,7 @@ const NFTData = [
   {
     id: "NFT-04",
     name: "Nifty NFT",
-    creator: "Putri Intan",
+    creator: "John doe",
     price: 54.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur.",
