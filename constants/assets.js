@@ -25,6 +25,11 @@ export default {
 	left,
 	search,
 
+	person01,
+	person02,
+	person03,
+	person04,
+
 	logo,
 	nft01,
 	nft02,
@@ -33,9 +38,4 @@ export default {
 	nft05,
 	nft06,
 	nft07,
-
-	person01,
-	person02,
-	person03,
-	person04,
 };
